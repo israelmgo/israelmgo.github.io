@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Conociendo Iptables
 ---
 
 Iptables es seguramente la herramienta mas conocido del Framework Netfilter, que se encuentra incluido en el núcleo de Linux desde marzo de 2000, es el predecesor de Ipcahins , aquí podéis encontrar algunas de las diferencias entre ambos, también podemos decir sin duda alguna que es una de las herramientas por excelencia para la gestión de servidores.
